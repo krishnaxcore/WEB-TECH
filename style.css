@@ -30,6 +30,15 @@ th {
     display:block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 25%;
+    height:450px;
     border : 5px solid black;
+}
+body {
+    background-image: linear-gradient(rgba(255,255,255,0.65), rgba(255,255,255,0.65)),
+                      url("liebe-black-clover-3840x2160-12451.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
